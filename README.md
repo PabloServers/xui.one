@@ -20,5 +20,5 @@ This script will work on Ubuntu and probably other distros of the same families,
    > 1. apt-get install git -y
    > 2. git clone https://github.com/PabloServers/xui.one
    > 3. cd xui.one
-   > 4. chmod +x install
-   > 5. ./install
+   > 4. chmod +x install.sh
+   > 5. ./install.sh
